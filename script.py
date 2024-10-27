@@ -29,6 +29,6 @@ def concatenate_python_files(directory_path, output_file):
 
 # Example usage
 if __name__ == "__main__":
-    directory_to_scan = r"/Users/maxmahlke/Documents/healthcheck/backend"  # Current directory, change this to your target directory
+    directory_to_scan = r"/Users/maxmahlke/Documents/your-dir"  # Current directory, change this to your target directory
     output_file_path = "combined_python_files.txt"
     concatenate_python_files(directory_to_scan, output_file_path)
